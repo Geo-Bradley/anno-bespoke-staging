@@ -1,0 +1,95 @@
+h1, 
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+span {
+    font-family: 'futura-pt', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+p, 
+li {
+    font-family: 'lato', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.futura-extra-bold {
+    font-family: 'futura-pt', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.futura-bold {
+    font-family: 'futura-pt', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.futura-bold-italic {
+    font-family: 'futura-pt', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.futura-normal-italic {
+    font-family: 'futura-pt', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.futura-normal {
+    font-family: 'futura-pt', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lato-bold-italic {
+    font-family: 'lato', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.lato-bold {
+    font-family: 'lato', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.lato-normal-italic {
+    font-family: 'lato', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.lato-normal {
+    font-family: 'lato', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}  
+
+.home-container {
+    position: relative;
+}
+
+
+
+/*************************** Header ***************************/
+
+
+/*************************** Footer ***************************/
+
+
+/************************************************************************ Home Page ************************************************************************/
+
+
+/*************************** Hero ***************************/

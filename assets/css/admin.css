@@ -1,0 +1,120 @@
+.w100 {
+	width: 100%;
+	font-size: 0;
+}
+
+.w100 .w25,
+.w100 .w30,
+.w100 .w33,
+.w100 .w35,
+.w100 .w40,
+.w100 .w50,
+.w100 .w60 {
+	font-size: 16px;
+	display: inline-block;
+	vertical-align: top;
+	box-sizing: border-box;
+}
+
+.w100 .w20 {
+	width: 20%;
+}
+
+.w100 .w25 {
+	width: 25%;
+}
+
+.w100 .w30 {
+	width: 30%;
+}
+
+.w100 .w33 {
+	width: 33%;
+}
+
+.w100 .w35 {
+	width: 35%;
+}
+
+.w100 .w40 {
+	width: 40%;
+}
+
+.w100 .w50 {
+	width: 50%;
+}
+
+.w100 .w60 {
+	width: 60%;
+}
+
+.file_previewer {
+	max-width: 250px !important;
+	margin-top: 10px;
+}
+
+.inner {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.inner-left {
+	padding-right: 10px;
+}
+
+.inner-right {
+	padding-left: 10px;
+}
+
+.type-translations pre,
+.type-translation_pages pre,
+.post-type-post .wp-list-table pre,
+.post-type-translation_posts .wp-list-table pre,
+.post-type-translation_policies .wp-list-table pre,
+.post-type-testimonials .wp-list-table pre,
+.post-type-carousels .wp-list-table pre,
+.post-type-case_studies .wp-list-table pre,
+.post-type-accreditations .wp-list-table pre,
+.post-type-awards .wp-list-table pre,
+.post-type-memberships .wp-list-table pre,
+.post-type-careers .wp-list-table pre,
+.post-type-policies .wp-list-table pre,
+.post-type-control_centres .wp-list-table pre,
+.post-type-translation_cs .wp-list-table pre {
+	display: none !important;
+}
+
+.metafield-container {
+	background-color: #ededed;
+	border: solid 1px #d8d8d8;
+	margin-bottom: 20px;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.lang-label {
+	width: 75px;
+	font-size: 14px;
+}
+
+.video-check {
+	color: #02ed21;
+	display: none;
+}
+
+.video-check.success {
+	display: inline-block;
+}
+
+.hidden-to-start {
+	display: none;
+}
+
+.hidden-to-start.visible {
+	display: block;
+}
+
+img {
+	width: 100%;
+	max-width: 400px;
+}
