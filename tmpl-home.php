@@ -18,7 +18,7 @@
 		get_template_part('template-parts/shared/case-study-about');
 		get_template_part('template-parts/shared/collab-frame');
 	?>
-	
+
 </div>
 
 <?php
